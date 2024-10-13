@@ -1,11 +1,7 @@
-package org.firstinspires.ftc.teamcode;
-
-import androidx.annotation.NonNull;
+package org.firstinspires.ftc.teamcode.centerstage;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
-
-import org.firstinspires.ftc.vision.apriltag.AprilTagDetection;
 
 @Autonomous (name = "Far Purple Autonomous (Red)")
 public class FarPurpleAutonomousRed extends LinearOpMode {

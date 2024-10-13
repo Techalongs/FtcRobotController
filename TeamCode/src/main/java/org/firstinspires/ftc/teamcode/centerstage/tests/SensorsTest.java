@@ -1,7 +1,7 @@
-package org.firstinspires.ftc.teamcode.tests;
+package org.firstinspires.ftc.teamcode.centerstage.tests;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
-import org.firstinspires.ftc.teamcode.Robot;
+import org.firstinspires.ftc.teamcode.centerstage.Robot;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
